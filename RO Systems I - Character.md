@@ -1,17 +1,5 @@
 # RO Systems I: Character
 
-## Contents
-
-<details>
-<summary><b>Contents</b></summary>
-- [Your Character](#your-character)
-- [Base Level & Job Level](#base-level--job-level)
-  - [Base Level](#base-level)
-  - [Job Lovel](#job-level)
-- [Jobs](#jobs)
-</details>
-
-
 ## Your Character
 
 The first thing you'll do after logging in for the first time is create a character. The character creation screen gives you five options:
