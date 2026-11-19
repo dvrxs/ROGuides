@@ -1,5 +1,6 @@
 # RO Systems I: Character
 
+
 ## Your Character
 
 The first thing you'll do after logging in for the first time is create a character. The character creation screen gives you five options:
@@ -26,11 +27,11 @@ Every character has two levels: **Base Level** and **Job Level**. Both increase 
 Represents your character's main level and goes from 1 to 99. For every Base Level, a character gains the following:
 
 * Points to allocate in their stats.
-* Increased total Health Points (HP) and Spiritual Points (SP).
+* Increased Health Points (HP) and Spell Points (SP).
 * Full HP & SP heal, immediately after leveling up.
 * +1 HIT & +1 FLEE.
 
-Each time a character dies, it loses 1% of its Base Level progression, regardless of the amount. Therefore, the higher the level the more EXP a character
+Each time a character dies, it loses 1% of its Base Level progressions. This means that the higher the level a character is when they die, the more EXP they lose.
 
 > [!TIP]
 > The Base Level is the one used for items and quests Level requirements.
@@ -39,6 +40,6 @@ Each time a character dies, it loses 1% of its Base Level progression, regardles
 
 Represents your character's mastery of their current job and goes from level 1 up to 50 for all first and second jobs, while capping at level 10 for the Novice job.
 
-Every time you change job, your Job Level will reset back to 1
+Every time you get a job change, your Job Level will be set to Level 1, and you will unlock a new Skill Tree for your recently obtained class. 
 
 ## Jobs
