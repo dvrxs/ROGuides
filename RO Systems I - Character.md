@@ -1,11 +1,23 @@
 # RO Systems I: Character
 
+## Contents
+
+<details>
+<summary><b>Contents</b></summary>
+- [Your Character](#your-character)
+- [Base Level & Job Level](#base-level--job-level)
+  - [Base Level](#base-level)
+  - [Job Lovel](#job-level)
+- [Jobs](#jobs)
+</details>
+
+
 ## Your Character
 
 The first thing you'll do after logging in for the first time is create a character. The character creation screen gives you five options:
 
 <p align="center">
-  <img src="img/character-creation.png" alt="Character creation">
+  <img src="img/character-creation.png" alt="Character creation" width="500">
 </p>
 
 * **Name**: Your character's name. Every character has a unique name, which appears whenever you talk in chat and when someone hovers the cursor over your character. A character name **can't** be changed later, so choose carefully.
@@ -26,15 +38,19 @@ Every character has two levels: **Base Level** and **Job Level**. Both increase 
 Represents your character's main level and goes from 1 to 99. For every Base Level, a character gains the following:
 
 * Points to allocate in their stats.
-* Increased Health Points (HP) and Spiritual Points (SP).
+* Increased total Health Points (HP) and Spiritual Points (SP).
+* Full HP & SP heal, immediately after leveling up.
+* +1 HIT & +1 FLEE.
 
 Each time a character dies, it loses 1% of its Base Level progression, regardless of the amount. Therefore, the higher the level the more EXP a character
 
 > [!TIP]
-> The Base Level is the one used for item and quest Level requirement.
+> The Base Level is the one used for items and quests Level requirements.
 
 ### Job Level
 
-Represents your character's mastery of their current job and goes up to 50 for all jobs except Novice, which caps at Job Level 10.
+Represents your character's mastery of their current job and goes from level 1 up to 50 for all first and second jobs, while capping at level 10 for the Novice job.
+
+Every time you change job, your Job Level will reset back to 1
 
 ## Jobs
