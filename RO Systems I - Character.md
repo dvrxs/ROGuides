@@ -4,7 +4,7 @@
 
 The first thing you'll do after logging in for the first time is create a character. The character creation screen gives you four options:
 
-[!Character creation](img/character-creation.png)
+![Character creation](img/character-creation.png)
 
 * **Name**: Your character's name. Every character has a unique name, which appears whenever you talk in chat and when someone hovers the cursor over your character. A character name **can't** be changed later, so choose carefully.
 * **Sex**: Male or Female. This choice applies to each character individually, so you can have both male and female characters on the same account.
