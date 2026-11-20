@@ -15,7 +15,7 @@ The first thing you'll do after logging in for the first time is create a charac
 * **Hair color**: Your character's starting hair color. Like the hair style, you can change it for free at any time at the Prontera Main Office, which also offers additional colors.
 * **Difficulty**: In SpringRO, you can choose to play with a normal Ragnarok Online character or a Hardcore one. Hardcore characters are meant to be played solo, and can't trade with other players or join parties.
 
->[!TIP]
+> **💡TIP:**
 > Sex is mostly cosmetic, but one of the Archer's second jobs depends on it. Male Archers can become Bards, while female Archers can become Dancers. These classes have different skills, so if you're interested in either, choose your character's sex accordingly.
 
 ## Base Level & Job Level
@@ -37,7 +37,7 @@ Represents your character's main level and goes from 1 to 99. For every Base Lev
 
 Each time a character dies, it loses 1% of its Base Level progressions. This means that the higher the level a character is when they die, the more EXP they lose.
 
-> [!TIP]
+> **💡TIP:**
 > The Base Level is the one used for items and quests Level requirements.
 
 ### Job Level
@@ -50,7 +50,7 @@ Additionally, on specific levels, Jobs receive a +1 bonus to a stat. The stat ga
 
 Once a **First Job** reaches Job Level 40, it can change to a **Second Job** of their class.
 
->[!TIP]
+> **💡TIP:**
 > While you can change at Job Level 40, it's usually recommended to change at Job Level 50 (the cap), in order to get all the available Skill Points. Besides the extra time investment, there's no downside to change Jobs at Job Level 50.
 
 Every time you get a Job change, your Job Level will be set to Level 1, and you will unlock a new Skill Tree. 

@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Dark colour scheme for the GitHub Pages site (doesn't affect the repo view)
+$bg: #1A1F2E;
+$text: #CBD5E1;
+$muted: #94A3B8;
+$border: #2E3650;
+$surface: #232A3D;
+$link: #7DB4F5;
+
+body,
+.markdown-body {
+  background-color: $bg;
+  color: $text;
+}
+
+.markdown-body {
+  h1, h2, h3, h4, h5, h6 { color: $text; border-bottom-color: $border; }
+  a { color: $link; }
+  hr { background-color: $border; border-bottom-color: $border; }
+  blockquote { color: $muted; border-left-color: $border; }
+  code, pre { background-color: $surface; color: $text; }
+  table {
+    th, td { border-color: $border; }
+    tr { background-color: $bg; border-top-color: $border; }
+    tr:nth-child(2n) { background-color: $surface; }
+  }
+}
