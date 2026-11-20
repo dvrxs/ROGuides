@@ -96,10 +96,11 @@ After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able
 | ![Thief](img/thief-female.png)<br>Thief | ![Assassin](img/assassin-female.png)<br>Assassin | ![Rogue](img/rogue-female.png)<br>Rogue |
 
 </div>
+<!-- TODO: Add Expanded classes when they are implemented.-->
+
+
 
 ---
-
-<!-- TODO: Add Expanded classes when they are implemented.-->
 
 <div align="center" markdown="1">
 
