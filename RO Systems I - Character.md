@@ -20,14 +20,11 @@ The first thing you'll do after logging in for the first time is create a charac
 
 ## Base Level & Job Level
 
-Every character has two levels: **Base Level** and **Job Level**. Both increase by earning experience points (EXP) from defeating monsters and completing quests. Each level type has its own independent progress bar, and every EXP source gives different amounts of **Base EXP** and **Job EXP**. All new characters start with the Novice job and Base and Job Levels of 1.
+Every character has two levels: **Base Level** and **Job Level**. Both increase by earning experience points (EXP) from defeating monsters and completing quests. Each level type has its own independent progress bar, and every EXP source gives different amounts of **Base EXP** and **Job EXP**.
 
 <p align="center">
   <img src="img/basic-info.png" alt="Basic View" width="250">
 </p>
-
-> [!TIP]
-> If you hover the bar, you can see the % of EXP achieved towards the next level. Whenever you reach the cap in either Base or Job Level, the bar will disappear.
 
 ### Base Level
 
@@ -60,6 +57,21 @@ Every time you get a Job change, your Job Level will be set to Level 1, and you 
 
 ## Jobs
 
+In Ragnarok Online, **all characters** start with the Novice job and Base and Job Levels of 1.
+
+After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able to choose a **First Job**, which also determines their **Class**.
+
+| 1st Job   | 2nd Job (A) | 2nd Job (B) |
+|-----------|-------------|-------------|
+| Swordsman | Knight      | Crusader    |
+| Mage      | Wizard      | Sage        |
+| Archer    | Hunter      | Bard / Dancer |
+| Acolyte   | Priest      | Monk        |
+| Merchant  | Blacksmith  | Alchemist   |
+| Thief     | Assassin    | Rogue       |
+
 ---
+
+<!-- TODO: Add Expanded classes when they are implemented.-->
 
 <p align="center"><a href="README.md">Index</a> | <a href="RO%20Systems%20II%20-%20Stats.md">II: Stats →</a></p>
