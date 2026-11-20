@@ -70,6 +70,9 @@ After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able
 | ![Swordsman](img/swordsman-male.png)<br>Swordsman | ![Knight](img/knight-male.png)<br>Knight | ![Crusader](img/crusader-male.png)<br>Crusader |
 | ![Mage](img/mage-male.png)<br>Mage | ![Wizard](img/wizard-male.png)<br>Wizard | ![Sage](img/sage-male.png)<br>Sage |
 | ![Archer](img/archer-male.png)<br>Archer | ![Hunter](img/hunter-male.png)<br>Hunter | ![Bard](img/bard-male.png)<br>Bard |
+
+| 1st Job (Class) | 2nd Job (2-1) | 2nd Job (2-2) |
+|:-------:|:-------:|:-------:|
 | ![Acolyte](img/acolyte-male.png)<br>Acolyte | ![Priest](img/priest-male.png)<br>Priest | ![Monk](img/monk-male.png)<br>Monk |
 | ![Merchant](img/merchant-male.png)<br>Merchant | ![Blacksmith](img/blacksmith-male.png)<br>Blacksmith | ![Alchemist](img/alchemist-male.png)<br>Alchemist |
 | ![Thief](img/thief-male.png)<br>Thief | ![Assassin](img/assassin-male.png)<br>Assassin | ![Rogue](img/rogue-male.png)<br>Rogue |
@@ -85,6 +88,9 @@ After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able
 | ![Swordsman](img/swordsman-female.png)<br>Swordsman | ![Knight](img/knight-female.png)<br>Knight | ![Crusader](img/crusader-female.png)<br>Crusader |
 | ![Mage](img/mage-female.png)<br>Mage | ![Wizard](img/wizard-female.png)<br>Wizard | ![Sage](img/sage-female.png)<br>Sage |
 | ![Archer](img/archer-female.png)<br>Archer | ![Hunter](img/hunter-female.png)<br>Hunter | ![Dancer](img/dancer-female.png)<br>Dancer |
+
+| 1st Job (Class) | 2nd Job (2-1) | 2nd Job (2-2) |
+|:-------:|:-------:|:-------:|
 | ![Acolyte](img/acolyte-female.png)<br>Acolyte | ![Priest](img/priest-female.png)<br>Priest | ![Monk](img/monk-female.png)<br>Monk |
 | ![Merchant](img/merchant-female.png)<br>Merchant | ![Blacksmith](img/blacksmith-female.png)<br>Blacksmith | ![Alchemist](img/alchemist-female.png)<br>Alchemist |
 | ![Thief](img/thief-female.png)<br>Thief | ![Assassin](img/assassin-female.png)<br>Assassin | ![Rogue](img/rogue-female.png)<br>Rogue |

@@ -58,13 +58,23 @@ body,
 .sprite-toggle-ready .sprite-table h4 { display: none; }
 
 .markdown-body .sprite-table {
+  &:not([hidden]) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  h4 { flex-basis: 100%; }
+
   table {
     display: table;
     width: auto;
-    margin: 0 auto;
+    margin: 0;
   }
 
-  td { padding: 10px 24px; }
+  td { padding: 10px 16px; }
 
   img {
     background: transparent;
