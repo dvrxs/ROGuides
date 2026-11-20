@@ -6,7 +6,7 @@
 The first thing you'll do after logging in for the first time is create a character. The character creation screen gives you five options:
 
 <p align="center">
-  <img src="img/character-creation.png" alt="Character creation" width="500">
+  <img src="img/character-creation.png" alt="Character creation" width="600">
 </p>
 
 * **Name**: Your character's name. Every character has a unique name, which appears whenever you talk in chat and when someone hovers the cursor over your character. A character name **can't** be changed later, so choose carefully.
@@ -21,6 +21,13 @@ The first thing you'll do after logging in for the first time is create a charac
 ## Base Level & Job Level
 
 Every character has two levels: **Base Level** and **Job Level**. Both increase by earning experience points (EXP) from defeating monsters and completing quests. Each level type has its own independent progress bar, and every EXP source gives different amounts of **Base EXP** and **Job EXP**. All new characters start with the Novice job and Base and Job Levels of 1.
+
+<p align="center">
+  <img src="img/basic-info.png" alt="Basic View" width="250">
+</p>
+
+> [!TIP]
+> If you hover the bar, you can see the % of EXP achieved towards the next level. Whenever you reach the cap in either Base or Job Level, the bar will disappear.
 
 ### Base Level
 
@@ -40,6 +47,15 @@ Each time a character dies, it loses 1% of its Base Level progressions. This mea
 
 Represents your character's mastery of their current job and goes from level 1 up to 50 for all first and second jobs, while capping at level 10 for the Novice job.
 
-Every time you get a job change, your Job Level will be set to Level 1, and you will unlock a new Skill Tree for your recently obtained class. 
+For every Job Level, a character gains 1 Skill point that can be used to Level Up a Skill.
+
+Additionally, on specific levels, Jobs receive a +1 bonus to a stat. The stat gain is fixed  and depends on both Job and Job Level.
+
+Once a **First Job** reaches Job Level 40, it can change to a **Second Job** of their class.
+
+>[!TIP]
+> While you can change at Job Level 40, it's usually recommended to change at Job Level 50 (the cap), in order to get all the available Skill Points. Besides the extra time investment, there's no downside to change Jobs at Job Level 50.
+
+Every time you get a Job change, your Job Level will be set to Level 1, and you will unlock a new Skill Tree. 
 
 ## Jobs
