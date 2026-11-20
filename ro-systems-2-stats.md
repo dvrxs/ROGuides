@@ -46,6 +46,6 @@ _Work in progress._
 
 <div align="center" markdown="1">
 
-[← I: Character](ro-systems-1-character.md) | [Index](README.md) | [III: Equipment →](ro-systems-3-equipment.md)
+[← I: Character](ro-systems-1-character.md) \| [Index](README.md) \| [III: Equipment →](ro-systems-3-equipment.md)
 
 </div>

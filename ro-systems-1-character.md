@@ -76,6 +76,6 @@ After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able
 
 <div align="center" markdown="1">
 
-[Index](README.md) | [II: Stats →](ro-systems-2-stats.md)
+[Index](README.md) \| [II: Stats →](ro-systems-2-stats.md)
 
 </div>
