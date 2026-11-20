@@ -65,7 +65,7 @@ After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able
 
 #### Male
 
-| 1st Job | 2nd Job | 2nd Job |
+| 1st Job (Class) | 2nd Job (2-1) | 2nd Job (2-2) |
 |:-------:|:-------:|:-------:|
 | ![Swordsman](img/swordsman-male.png)<br>Swordsman | ![Knight](img/knight-male.png)<br>Knight | ![Crusader](img/crusader-male.png)<br>Crusader |
 | ![Mage](img/mage-male.png)<br>Mage | ![Wizard](img/wizard-male.png)<br>Wizard | ![Sage](img/sage-male.png)<br>Sage |
@@ -80,7 +80,7 @@ After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able
 
 #### Female
 
-| 1st Job | 2nd Job | 2nd Job |
+| 1st Job (Class) | 2nd Job (2-1) | 2nd Job (2-2) |
 |:-------:|:-------:|:-------:|
 | ![Swordsman](img/swordsman-female.png)<br>Swordsman | ![Knight](img/knight-female.png)<br>Knight | ![Crusader](img/crusader-female.png)<br>Crusader |
 | ![Mage](img/mage-female.png)<br>Mage | ![Wizard](img/wizard-female.png)<br>Wizard | ![Sage](img/sage-female.png)<br>Sage |
