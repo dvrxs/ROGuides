@@ -74,4 +74,8 @@ After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able
 
 <!-- TODO: Add Expanded classes when they are implemented.-->
 
-<p align="center"><a href="README.md">Index</a> | <a href="RO%20Systems%20II%20-%20Stats.md">II: Stats →</a></p>
+<div align="center" markdown="1">
+
+[Index](README.md) | [II: Stats →](ro-systems-2-stats.md)
+
+</div>

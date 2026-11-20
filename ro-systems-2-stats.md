@@ -44,4 +44,8 @@ _Work in progress._
 
 ---
 
-<p align="center"><a href="RO%20Systems%20I%20-%20Character.md">← I: Character</a> | <a href="README.md">Index</a> | <a href="RO%20Systems%20III%20-%20Equipment.md">III: Equipment →</a></p>
+<div align="center" markdown="1">
+
+[← I: Character](ro-systems-1-character.md) | [Index](README.md) | [III: Equipment →](ro-systems-3-equipment.md)
+
+</div>
