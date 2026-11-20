@@ -4,4 +4,4 @@ _Work in progress._
 
 ---
 
-[← V: Cards](RO%20Systems%20V%20-%20Cards.md) | [Index](README.md)
+<p align="center"><a href="RO%20Systems%20V%20-%20Cards.md">← V: Cards</a> | <a href="README.md">Index</a></p>

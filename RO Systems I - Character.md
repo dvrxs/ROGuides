@@ -46,4 +46,4 @@ Every time you get a job change, your Job Level will be set to Level 1, and you 
 
 ---
 
-[Index](README.md) | [II: Stats →](RO%20Systems%20II%20-%20Stats.md)
+<p align="center"><a href="README.md">Index</a> | <a href="RO%20Systems%20II%20-%20Stats.md">II: Stats →</a></p>
