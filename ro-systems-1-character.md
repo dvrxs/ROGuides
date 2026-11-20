@@ -61,14 +61,14 @@ In Ragnarok Online, **all characters** start with the Novice job and Base and Jo
 
 After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able to choose a **First Job**, which also determines their **Class**.
 
-| 1st Job   | 2nd Job (A) | 2nd Job (B) |
-|-----------|-------------|-------------|
-| Swordsman | Knight      | Crusader    |
-| Mage      | Wizard      | Sage        |
-| Archer    | Hunter      | Bard / Dancer |
-| Acolyte   | Priest      | Monk        |
-| Merchant  | Blacksmith  | Alchemist   |
-| Thief     | Assassin    | Rogue       |
+| Class     | Male                                   | Female                                     |
+|-----------|----------------------------------------|--------------------------------------------|
+| Swordsman | ![Swordsman male](img/swordsman-male.png) | ![Swordsman female](img/swordsman-female.png) |
+| Mage      | ![Mage male](img/mage-male.png)         | ![Mage female](img/mage-female.png)         |
+| Archer    | ![Archer male](img/archer-male.png)     | ![Archer female](img/archer-female.png)     |
+| Acolyte   | ![Acolyte male](img/acolyte-male.png)   | ![Acolyte female](img/acolyte-female.png)   |
+| Merchant  | ![Merchant male](img/merchant-male.png) | ![Merchant female](img/merchant-female.png) |
+| Thief     | ![Thief male](img/thief-male.png)       | ![Thief female](img/thief-female.png)       |
 
 ---
 
