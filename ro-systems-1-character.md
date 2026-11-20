@@ -61,14 +61,35 @@ In Ragnarok Online, **all characters** start with the Novice job and Base and Jo
 
 After reaching Job Level 10 and maxing the Basic Skill ability, a Novice is able to choose a **First Job**, which also determines their **Class**.
 
-| Class     | Male                                   | Female                                     |
-|-----------|----------------------------------------|--------------------------------------------|
-| Swordsman | ![Swordsman male](img/swordsman-male.png) | ![Swordsman female](img/swordsman-female.png) |
-| Mage      | ![Mage male](img/mage-male.png)         | ![Mage female](img/mage-female.png)         |
-| Archer    | ![Archer male](img/archer-male.png)     | ![Archer female](img/archer-female.png)     |
-| Acolyte   | ![Acolyte male](img/acolyte-male.png)   | ![Acolyte female](img/acolyte-female.png)   |
-| Merchant  | ![Merchant male](img/merchant-male.png) | ![Merchant female](img/merchant-female.png) |
-| Thief     | ![Thief male](img/thief-male.png)       | ![Thief female](img/thief-female.png)       |
+<div class="sprite-table" data-sex="male" markdown="1">
+
+#### Male
+
+| 1st Job | 2nd Job | 2nd Job |
+|:-------:|:-------:|:-------:|
+| ![Swordsman](img/swordsman-male.png)<br>Swordsman | ![Knight](img/knight-male.png)<br>Knight | ![Crusader](img/crusader-male.png)<br>Crusader |
+| ![Mage](img/mage-male.png)<br>Mage | ![Wizard](img/wizard-male.png)<br>Wizard | ![Sage](img/sage-male.png)<br>Sage |
+| ![Archer](img/archer-male.png)<br>Archer | ![Hunter](img/hunter-male.png)<br>Hunter | ![Bard](img/bard-male.png)<br>Bard |
+| ![Acolyte](img/acolyte-male.png)<br>Acolyte | ![Priest](img/priest-male.png)<br>Priest | ![Monk](img/monk-male.png)<br>Monk |
+| ![Merchant](img/merchant-male.png)<br>Merchant | ![Blacksmith](img/blacksmith-male.png)<br>Blacksmith | ![Alchemist](img/alchemist-male.png)<br>Alchemist |
+| ![Thief](img/thief-male.png)<br>Thief | ![Assassin](img/assassin-male.png)<br>Assassin | ![Rogue](img/rogue-male.png)<br>Rogue |
+
+</div>
+
+<div class="sprite-table" data-sex="female" markdown="1">
+
+#### Female
+
+| 1st Job | 2nd Job | 2nd Job |
+|:-------:|:-------:|:-------:|
+| ![Swordsman](img/swordsman-female.png)<br>Swordsman | ![Knight](img/knight-female.png)<br>Knight | ![Crusader](img/crusader-female.png)<br>Crusader |
+| ![Mage](img/mage-female.png)<br>Mage | ![Wizard](img/wizard-female.png)<br>Wizard | ![Sage](img/sage-female.png)<br>Sage |
+| ![Archer](img/archer-female.png)<br>Archer | ![Hunter](img/hunter-female.png)<br>Hunter | ![Dancer](img/dancer-female.png)<br>Dancer |
+| ![Acolyte](img/acolyte-female.png)<br>Acolyte | ![Priest](img/priest-female.png)<br>Priest | ![Monk](img/monk-female.png)<br>Monk |
+| ![Merchant](img/merchant-female.png)<br>Merchant | ![Blacksmith](img/blacksmith-female.png)<br>Blacksmith | ![Alchemist](img/alchemist-female.png)<br>Alchemist |
+| ![Thief](img/thief-female.png)<br>Thief | ![Assassin](img/assassin-female.png)<br>Assassin | ![Rogue](img/rogue-female.png)<br>Rogue |
+
+</div>
 
 ---
 

@@ -28,3 +28,45 @@ body,
     tr:nth-child(2n) { background-color: $surface; }
   }
 }
+
+.sprite-toggle {
+  display: flex;
+  justify-content: center;
+  gap: 0;
+  margin: 16px 0;
+
+  button {
+    font: inherit;
+    padding: 6px 18px;
+    cursor: pointer;
+    color: $muted;
+    background-color: $surface;
+    border: 1px solid $border;
+
+    &:first-child { border-radius: 6px 0 0 6px; }
+    &:last-child { border-radius: 0 6px 6px 0; border-left: none; }
+    &:hover { color: $text; }
+
+    &[aria-pressed="true"] {
+      color: $bg;
+      background-color: $link;
+      border-color: $link;
+    }
+  }
+}
+
+.sprite-toggle-ready .sprite-table h4 { display: none; }
+
+.markdown-body .sprite-table {
+  table {
+    display: table;
+    width: auto;
+    margin: 0 auto;
+  }
+
+  td { padding: 10px 24px; }
+
+  img {
+    background: transparent;
+  }
+}
